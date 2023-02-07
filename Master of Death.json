@@ -1,0 +1,174 @@
+{
+	"siteVersion": "1.175.2",
+	"monster": [
+		{
+			"_meta": {
+				"sources": [
+					{
+						"json": "MoD_CAR",
+						"abbreviation": "MoD",
+						"full": "Master of Death",
+						"authors": [
+							"DeathDragon0919"
+						],
+						"convertedBy": [
+							"Ninja1265"
+						],
+						"version": "1.0",
+						"url": {
+							"_meta": {
+								"sources": [
+									{
+										"json": "MoD_CAR",
+										"abbreviation": "MoD",
+										"full": "Master of Death",
+										"authors": [
+											"DeathDragon0919"
+										],
+										"convertedBy": [
+											"Ninja1265"
+										],
+										"version": "1.0",
+										"url": "https://github.com/TheGiddyLimit/homebrew",
+										"targetSchema": "1.0.0"
+									}
+								],
+								"page": 0,
+								"size": [
+									"H"
+								],
+								"type": "who steps onto the path of death finishes the path whether having mastered it or being subservient to it.",
+								"ac": [
+									"Necromancy Savant"
+								],
+								"hp": {
+									"special": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved."
+								},
+								"speed": {
+									"UNPARSED_SPEED": "grim harvest"
+								},
+								"trait": [
+									{
+										"name": "At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells",
+										"entries": [
+											"Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.",
+											"Necromancer's Sacrifice To Master Death the first step is to command Death, but to do so takes Sacrifice.",
+											"You add the {@spell animate dead} spell to your spellbook if it is not there already. if it is, choose another 3rd-level spell and add it to your spellbook. The {@spell animate dead} spell is always prepared but does not count against your prepared spells. Then you choose the a Necromancer path Quantity Over Quality or Quality over Quantity.",
+											"Quality over Quantity Quality over Quantity You have chosen to harness and focus your power over Death into a single force.",
+											"You have chosen Quality this path allows you to use {@spell Animate Dead} Spell to summon Skeleton Knights(Skeleton Knights Information Below) but robes you of being able to summon any other of undead in any form or fashion.",
+											"You can Summon as many Skeleton Knights equal to your spell casting modifier.",
+											"Skeleton Knights after being summoned can grow with their Master. Skeleton Knight's level is equal to half of your Wizarding Level(Rounded up) at all times.",
+											"Each Skeleton Knight requires 4 key components.",
+											"4. A Black Opal worth 1000GP times the Skeleton Knights Level."
+										]
+									},
+									{
+										"name": "3. A Knights Corpse",
+										"entries": [
+											"2. A willing deceased Knight's Spirit bound by a Master-Servant contract that both must agree to.",
+											"1. A Sacrifice of 10% of your total Spell Points(Rounded up) at all times Whenever you create your Skeleton Knights, even with your Sacrifice your body still bears a physical burden.",
+											"The second and third Skeleton Knights lower your STR Score by 1 each as long as they are bound by contact.",
+											"The forth and fifth Skeleton Knights lower your CON Score by 1 each as long as they are bound by contact.",
+											"Skeleton Knights cannot speak vocally, but can communicate telepathically with their master up to 90ft away Skeleton Knight Race: Human Variant - Class: Fighter Champion Abilities(MAX LVL 10) - Background: Knight Base Stats - STR - 18(+4) DEX - 12(+1) CON - 18(+4) INT - 10(+0) WIS - 12(+1) CHA - 10(+0) Speed - 30 ft.",
+											"Damage Immunities - Poison, Disease Condition Immunities - Exhaustion, Poisoned, Frightened, Charmed Senses - Darkvision 60 ft.",
+											"Languages - Common & languages it knew in life, but cannot speak vocally",
+											"-"
+										]
+									},
+									{
+										"name": "Undead Nature",
+										"entries": [
+											"A Skeleton Knight doesn't require air, food, drink, or sleep.",
+											"Quantity Over Quality You have chosen not to concentrate your power over Death but unleash it like a horde.",
+											"When you cast {@spell animate dead}, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.",
+											"You can Sacrifice 3 Spell Points to have 2 skeletons become permanently under your command until they are destroyed.",
+											"While Permanent Skeletons are summoned the Spell Points are Sacrificed until, 2 Permanent Skeletons die and after a long rest. Short rest or Arcane Recovery does not regain Spell Points back even after 2 Permanent Skeletons die. When two Permanent Skeletons die you cannot use the Spell Points already Sacrificed for two skeletons that are not permanent and will have to use Spell Points you currently still have available.",
+											"Whenever you create an undead using Animate Dead and make them Permanent Skeletons, they gain additional benefits: The creature's hit point maximum is increased by an amount equal to your wizard level.",
+											"The creature adds your proficiency bonus to its weapon attack rolls.",
+											"The creature adds your Spell Casting Modifier to its weapon damage rolls.",
+											"Animate Dead - 3rd Level Spell - Summon 2 Skeletons or re-control 4 3rd - 5 - re-control 4 skeletons 4th - 6 - re-control 6 skeletons 5th - 7 - re-control 8 skeletons 6th - 9 - re-control 10 skeletons 7th - 10 - re-control 12 skeletons 8th - 11 - re-control 14 skeletons 9th - 13 - re-control 16 skeletons Inured to Undeath Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.",
+											"Many as One You are Intune with Death that your Many become one.",
+											"You can now give any and all  Skeletons within 90 feet of you precise commands, mentally without using your bonus action.  When you cast a spell with a range of touch, one of your Permanent Skeletons can deliver the spell as if it had cast the spell. Your Permanent Skeleton must be within 60 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.",
+											"One as Many You are Intune with Death that your One become Many.",
+											"When you cast a spell, one of your Skeleton Knights can deliver the spell as if it had cast the spell, but cannot concentrate on the spell. Your Skeleton Knights must be within 90 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.",
+											"Overlord Of Death You have Mastered Death and now rule over it as lord.",
+											"You have seen Death and did not flinch nor look away are now immune to being Frightened and Charmed.",
+											"Avatar Of Death You focus all of your power over Death into a single Skeleton Knight and give Death an avatar to bring all enemies into its embrace. Once per long rest, for one minute you can choose one Skeleton Knight to gain resistance to all damage, attack 4 times per Attack action,  have advantage on all attacks, saving throws, and checks, and gain you spell casting modifier to their attack & damage rolls. As soon as this happens any and all other Skeleton Knights are {@condition unconscious} for the duration of a Short Rest. Afterward the Skeleton Knight chosen is  {@condition unconscious} until re-summoned with a new Black Opal worth 1000GP times the Skeleton Knights Level.",
+											"Unleash the Horde You imbue all of your power into all of your undead and then unleash them upon your enemies as one Undead Horde. Once per long rest you, for one minute you can imbue all of your undead to gain double their original health and attack twice per turn. During this time due the the Unleashed Horde mentality the undead cannot take precise commands and can only attack. All normal summoned undead immediately die after the one minute. All Permanent Skeletons are {@condition prone} for the duration of a Short Rest."
+										]
+									}
+								]
+							}
+						},
+						"targetSchema": "1.0.0"
+					}
+				],
+				"page": 0,
+				"size": [
+					"H"
+				],
+				"type": "who steps onto the path of death finishes the path whether having mastered it or being subservient to it.",
+				"ac": [
+					"Necromancy Savant"
+				],
+				"hp": {
+					"special": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved."
+				},
+				"speed": {
+					"UNPARSED_SPEED": "grim harvest"
+				},
+				"trait": [
+					{
+						"name": "At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells",
+						"entries": [
+							"Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.",
+							"Necromancer's Sacrifice To Master Death the first step is to command Death, but to do so takes Sacrifice.",
+							"You add the {@spell animate dead} spell to your spellbook if it is not there already. if it is, choose another 3rd-level spell and add it to your spellbook. The {@spell animate dead} spell is always prepared but does not count against your prepared spells. Then you choose the a Necromancer path Quantity Over Quality or Quality over Quantity.",
+							"Quality over Quantity Quality over Quantity You have chosen to harness and focus your power over Death into a single force.",
+							"You have chosen Quality this path allows you to use {@spell Animate Dead} Spell to summon Skeleton Knights(Skeleton Knights Information Below) but robes you of being able to summon any other of undead in any form or fashion.",
+							"You can Summon as many Skeleton Knights equal to your spell casting modifier.",
+							"Skeleton Knights after being summoned can grow with their Master. Skeleton Knight's level is equal to half of your Wizarding Level(Rounded up) at all times.",
+							"Each Skeleton Knight requires 4 key components.",
+							"4. A Black Opal worth 1000GP times the Skeleton Knights Level."
+						]
+					},
+					{
+						"name": "3. A Knights Corpse",
+						"entries": [
+							"2. A willing deceased Knight's Spirit bound by a Master-Servant contract that both must agree to.",
+							"1. A Sacrifice of 10% of your total Spell Points(Rounded up) at all times Whenever you create your Skeleton Knights, even with your Sacrifice your body still bears a physical burden.",
+							"The second and third Skeleton Knights lower your STR Score by 1 each as long as they are bound by contact.",
+							"The forth and fifth Skeleton Knights lower your CON Score by 1 each as long as they are bound by contact.",
+							"Skeleton Knights cannot speak vocally, but can communicate telepathically with their master up to 90ft away Skeleton Knight Race: Human Variant - Class: Fighter Champion Abilities(MAX LVL 10) - Background: Knight Base Stats - STR - 18(+4) DEX - 12(+1) CON - 18(+4) INT - 10(+0) WIS - 12(+1) CHA - 10(+0) Speed - 30 ft.",
+							"Damage Immunities - Poison, Disease Condition Immunities - Exhaustion, Poisoned, Frightened, Charmed Senses - Darkvision 60 ft.",
+							"Languages - Common & languages it knew in life, but cannot speak vocally",
+							"-"
+						]
+					},
+					{
+						"name": "Undead Nature",
+						"entries": [
+							"A Skeleton Knight doesn't require air, food, drink, or sleep.",
+							"Quantity Over Quality You have chosen not to concentrate your power over Death but unleash it like a horde.",
+							"When you cast {@spell animate dead}, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.",
+							"You can Sacrifice 3 Spell Points to have 2 skeletons become permanently under your command until they are destroyed.",
+							"While Permanent Skeletons are summoned the Spell Points are Sacrificed until, 2 Permanent Skeletons die and after a long rest. Short rest or Arcane Recovery does not regain Spell Points back even after 2 Permanent Skeletons die. When two Permanent Skeletons die you cannot use the Spell Points already Sacrificed for two skeletons that are not permanent and will have to use Spell Points you currently still have available.",
+							"Whenever you create an undead using Animate Dead and make them Permanent Skeletons, they gain additional benefits: The creature's hit point maximum is increased by an amount equal to your wizard level.",
+							"The creature adds your proficiency bonus to its weapon attack rolls.",
+							"The creature adds your Spell Casting Modifier to its weapon damage rolls.",
+							"Animate Dead - 3rd Level Spell - Summon 2 Skeletons or re-control 4 3rd - 5 - re-control 4 skeletons 4th - 6 - re-control 6 skeletons 5th - 7 - re-control 8 skeletons 6th - 9 - re-control 10 skeletons 7th - 10 - re-control 12 skeletons 8th - 11 - re-control 14 skeletons 9th - 13 - re-control 16 skeletons Inured to Undeath Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.",
+							"Many as One You are Intune with Death that your Many become one.",
+							"You can now give any and all  Skeletons within 90 feet of you precise commands, mentally without using your bonus action.  When you cast a spell with a range of touch, one of your Permanent Skeletons can deliver the spell as if it had cast the spell. Your Permanent Skeleton must be within 60 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.",
+							"One as Many You are Intune with Death that your One become Many.",
+							"When you cast a spell, one of your Skeleton Knights can deliver the spell as if it had cast the spell, but cannot concentrate on the spell. Your Skeleton Knights must be within 90 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.",
+							"Overlord Of Death You have Mastered Death and now rule over it as lord.",
+							"You have seen Death and did not flinch nor look away are now immune to being Frightened and Charmed.",
+							"Avatar Of Death You focus all of your power over Death into a single Skeleton Knight and give Death an avatar to bring all enemies into its embrace. Once per long rest, for one minute you can choose one Skeleton Knight to gain resistance to all damage, attack 4 times per Attack action,  have advantage on all attacks, saving throws, and checks, and gain you spell casting modifier to their attack & damage rolls. As soon as this happens any and all other Skeleton Knights are {@condition unconscious} for the duration of a Short Rest. Afterward the Skeleton Knight chosen is  {@condition unconscious} until re-summoned with a new Black Opal worth 1000GP times the Skeleton Knights Level.",
+							"Unleash the Horde You imbue all of your power into all of your undead and then unleash them upon your enemies as one Undead Horde. Once per long rest you, for one minute you can imbue all of your undead to gain double their original health and attack twice per turn. During this time due the the Unleashed Horde mentality the undead cannot take precise commands and can only attack. All normal summoned undead immediately die after the one minute. All Permanent Skeletons are {@condition prone} for the duration of a Short Rest."
+						]
+					}
+				]
+			}
+		}
+	]
+}
